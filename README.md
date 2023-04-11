@@ -1,1 +1,1 @@
-# coding-project-template
+# Book Review Application - Lung Andreea
